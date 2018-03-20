@@ -67,6 +67,9 @@
 !*.command
 
 # Other configuration and markup files
+!*.uasset
+*_BuiltData.uasset
+!*.umap
 !*.ini
 !*.json
 !*.tps
